@@ -1,0 +1,108 @@
+{
+  "description": "用于对比普通 RAG vs GraphRAG 的 10 个测试问题。故意挑选'跨主题/多跳'问题——这类问题需要从多个章节综合推理,普通 RAG 容易答不全。",
+  "questions": [
+    {
+      "id": 1,
+      "question": "糖尿病客户能不能空腹晨练?",
+      "expected_hops": [
+        "糖尿病 → 降糖药 → 低血糖风险",
+        "运动 → 空腹运动禁忌"
+      ],
+      "type": "multi-hop",
+      "cross_topics": ["糖尿病", "运动"]
+    },
+    {
+      "id": 2,
+      "question": "高血压客户能不能喝西柚汁?",
+      "expected_hops": [
+        "高血压 → 地平类降压药",
+        "营养 → 西柚汁 → 药物相互作用 → 升高血药浓度"
+      ],
+      "type": "multi-hop",
+      "cross_topics": ["高血压", "营养"]
+    },
+    {
+      "id": 3,
+      "question": "肥胖且有糖尿病的客户可以做轻断食吗?",
+      "expected_hops": [
+        "肥胖 → 减重方案 → 轻断食",
+        "糖尿病 → 服降糖药 → 低血糖禁忌"
+      ],
+      "type": "multi-hop",
+      "cross_topics": ["肥胖", "糖尿病"]
+    },
+    {
+      "id": 4,
+      "question": "更年期失眠的高血压客户能服褪黑素吗?",
+      "expected_hops": [
+        "失眠 → 褪黑素 → 慢性病客户慎用",
+        "高血压 → 降压药相互作用"
+      ],
+      "type": "multi-hop",
+      "cross_topics": ["失眠", "高血压"]
+    },
+    {
+      "id": 5,
+      "question": "高血压客户运动中头晕怎么办?",
+      "expected_hops": [
+        "高血压 → 降压药 → 体位性低血压",
+        "糖尿病客户运动 → 低血糖头晕",
+        "运动 → 紧急情况处置"
+      ],
+      "type": "multi-hop",
+      "cross_topics": ["高血压", "糖尿病", "运动"]
+    },
+    {
+      "id": 6,
+      "question": "肥胖客户的减重计划应该怎么设计?",
+      "expected_hops": [
+        "肥胖 → 减重方案",
+        "运动 → 不同人群推荐时段 → 肥胖",
+        "营养 → 热量缺口"
+      ],
+      "type": "multi-hop",
+      "cross_topics": ["肥胖", "运动", "营养"]
+    },
+    {
+      "id": 7,
+      "question": "糖尿病客户每天可以吃多少水果?",
+      "expected_hops": [
+        "糖尿病 → 生活方式 → 水果摄入限制",
+        "营养 → 水果推荐量",
+        "营养 → 低 GI 食物"
+      ],
+      "type": "single-hop-mostly",
+      "cross_topics": ["糖尿病", "营养"]
+    },
+    {
+      "id": 8,
+      "question": "高血压客户上午什么时候运动最好?",
+      "expected_hops": [
+        "运动 → 不同人群推荐时段 → 高血压客户上午 10 点后",
+        "高血压 → 清晨血压高峰"
+      ],
+      "type": "single-hop",
+      "cross_topics": ["高血压", "运动"]
+    },
+    {
+      "id": 9,
+      "question": "肥胖会导致哪些慢性病?",
+      "expected_hops": [
+        "肥胖 → 胰岛素抵抗 → 糖尿病",
+        "肥胖 → 血脂异常 → 高血压",
+        "肥胖 → 阻塞性睡眠呼吸暂停 → 失眠"
+      ],
+      "type": "multi-hop",
+      "cross_topics": ["肥胖", "糖尿病", "高血压", "失眠"]
+    },
+    {
+      "id": 10,
+      "question": "高血压的分级标准是什么?",
+      "expected_hops": [
+        "高血压 → 分级"
+      ],
+      "type": "single-hop",
+      "cross_topics": ["高血压"]
+    }
+  ]
+}

@@ -1,0 +1,1286 @@
+{
+  "高血压": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065",
+      "chunk-b9367b056b39e5599923169e84ac1a7f",
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 3,
+    "create_time": 1779429672,
+    "update_time": 1779429672,
+    "_id": "高血压"
+  },
+  "糖尿病": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065",
+      "chunk-b9367b056b39e5599923169e84ac1a7f",
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 3,
+    "create_time": 1779429672,
+    "update_time": 1779429672,
+    "_id": "糖尿病"
+  },
+  "失眠": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065",
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 2,
+    "create_time": 1779429672,
+    "update_time": 1779429672,
+    "_id": "失眠"
+  },
+  "肥胖": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065",
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 2,
+    "update_time": 1779429678,
+    "_id": "肥胖"
+  },
+  "营养": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065",
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 2,
+    "create_time": 1779429672,
+    "update_time": 1779429672,
+    "_id": "营养"
+  },
+  "运动": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065",
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 2,
+    "create_time": 1779429672,
+    "update_time": 1779429672,
+    "_id": "运动"
+  },
+  "ACEI": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429672,
+    "update_time": 1779429672,
+    "_id": "ACEI"
+  },
+  "ARB": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429672,
+    "update_time": 1779429672,
+    "_id": "ARB"
+  },
+  "CCB": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429673,
+    "update_time": 1779429673,
+    "_id": "CCB"
+  },
+  "β 阻滞剂": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429673,
+    "update_time": 1779429673,
+    "_id": "β 阻滞剂"
+  },
+  "利尿剂": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429673,
+    "update_time": 1779429673,
+    "_id": "利尿剂"
+  },
+  "二甲双胍": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429673,
+    "update_time": 1779429673,
+    "_id": "二甲双胍"
+  },
+  "磺脲类": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429673,
+    "update_time": 1779429673,
+    "_id": "磺脲类"
+  },
+  "胰岛素": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065",
+      "chunk-b9367b056b39e5599923169e84ac1a7f",
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 3,
+    "create_time": 1779429673,
+    "update_time": 1779429673,
+    "_id": "胰岛素"
+  },
+  "DPP-4抑制剂": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429673,
+    "update_time": 1779429673,
+    "_id": "DPP-4抑制剂"
+  },
+  "SGLT-2抑制剂": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429673,
+    "update_time": 1779429673,
+    "_id": "SGLT-2抑制剂"
+  },
+  "褪黑素": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065",
+      "chunk-b9367b056b39e5599923169e84ac1a7f",
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 3,
+    "create_time": 1779429673,
+    "update_time": 1779429673,
+    "_id": "褪黑素"
+  },
+  "世界卫生组织": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429673,
+    "update_time": 1779429673,
+    "_id": "世界卫生组织"
+  },
+  "健康管理中心": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429673,
+    "update_time": 1779429673,
+    "_id": "健康管理中心"
+  },
+  "中高端会员客户": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429673,
+    "update_time": 1779429673,
+    "_id": "中高端会员客户"
+  },
+  "健康管理咨询师": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429673,
+    "update_time": 1779429673,
+    "_id": "健康管理咨询师"
+  },
+  "血压": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065",
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 2,
+    "create_time": 1779429673,
+    "update_time": 1779429673,
+    "_id": "血压"
+  },
+  "血糖": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429673,
+    "update_time": 1779429673,
+    "_id": "血糖"
+  },
+  "糖化血红蛋白": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429673,
+    "update_time": 1779429673,
+    "_id": "糖化血红蛋白"
+  },
+  "BMI": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429673,
+    "update_time": 1779429673,
+    "_id": "BMI"
+  },
+  "腰围": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429673,
+    "update_time": 1779429673,
+    "_id": "腰围"
+  },
+  "碳水": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429673,
+    "update_time": 1779429673,
+    "_id": "碳水"
+  },
+  "水果": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065",
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 2,
+    "create_time": 1779429673,
+    "update_time": 1779429673,
+    "_id": "水果"
+  },
+  "含糖饮料": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429673,
+    "update_time": 1779429673,
+    "_id": "含糖饮料"
+  },
+  "高GI食物": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429673,
+    "update_time": 1779429673,
+    "_id": "高GI食物"
+  },
+  "蓝光": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429673,
+    "update_time": 1779429673,
+    "_id": "蓝光"
+  },
+  "咖啡因": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429673,
+    "update_time": 1779429673,
+    "_id": "咖啡因"
+  },
+  "更年期": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065",
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 2,
+    "create_time": 1779429673,
+    "update_time": 1779429673,
+    "_id": "更年期"
+  },
+  "内脏脂肪": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065",
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 2,
+    "create_time": 1779429673,
+    "update_time": 1779429673,
+    "_id": "内脏脂肪"
+  },
+  "胰岛素抵抗": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065",
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 2,
+    "create_time": 1779429673,
+    "update_time": 1779429673,
+    "_id": "胰岛素抵抗"
+  },
+  "血脂异常": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065",
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 2,
+    "create_time": 1779429673,
+    "update_time": 1779429673,
+    "_id": "血脂异常"
+  },
+  "慢性病": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429673,
+    "update_time": 1779429673,
+    "_id": "慢性病"
+  },
+  "健康生活方式": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429673,
+    "update_time": 1779429673,
+    "_id": "健康生活方式"
+  },
+  "疾病预防": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429674,
+    "update_time": 1779429674,
+    "_id": "疾病预防"
+  },
+  "体重管理": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429674,
+    "update_time": 1779429674,
+    "_id": "体重管理"
+  },
+  "睡眠质量": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429674,
+    "update_time": 1779429674,
+    "_id": "睡眠质量"
+  },
+  "运动建议": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429674,
+    "update_time": 1779429674,
+    "_id": "运动建议"
+  },
+  "饮食控制": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429674,
+    "update_time": 1779429674,
+    "_id": "饮食控制"
+  },
+  "健康咨询": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429674,
+    "update_time": 1779429674,
+    "_id": "健康咨询"
+  },
+  "培训陪练": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429674,
+    "update_time": 1779429674,
+    "_id": "培训陪练"
+  },
+  "健康知识库": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429674,
+    "update_time": 1779429674,
+    "_id": "健康知识库"
+  },
+  "降压药": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065",
+      "chunk-b9367b056b39e5599923169e84ac1a7f",
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 3,
+    "create_time": 1779429674,
+    "update_time": 1779429674,
+    "_id": "降压药"
+  },
+  "降糖药": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065",
+      "chunk-b9367b056b39e5599923169e84ac1a7f",
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 3,
+    "create_time": 1779429674,
+    "update_time": 1779429674,
+    "_id": "降糖药"
+  },
+  "禁忌": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429674,
+    "update_time": 1779429674,
+    "_id": "禁忌"
+  },
+  "并发症": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429674,
+    "update_time": 1779429674,
+    "_id": "并发症"
+  },
+  "治疗建议": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429674,
+    "update_time": 1779429674,
+    "_id": "治疗建议"
+  },
+  "风险因素": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429674,
+    "update_time": 1779429674,
+    "_id": "风险因素"
+  },
+  "监测指标": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429674,
+    "update_time": 1779429674,
+    "_id": "监测指标"
+  },
+  "健康教育": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429674,
+    "update_time": 1779429674,
+    "_id": "健康教育"
+  },
+  "16:8轻断食": {
+    "chunk_ids": [
+      "chunk-b9367b056b39e5599923169e84ac1a7f",
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 2,
+    "create_time": 1779429674,
+    "update_time": 1779429674,
+    "_id": "16:8轻断食"
+  },
+  "低血糖": {
+    "chunk_ids": [
+      "chunk-b9367b056b39e5599923169e84ac1a7f"
+    ],
+    "count": 1,
+    "create_time": 1779429674,
+    "update_time": 1779429674,
+    "_id": "低血糖"
+  },
+  "体位性低血压": {
+    "chunk_ids": [
+      "chunk-b9367b056b39e5599923169e84ac1a7f"
+    ],
+    "count": 1,
+    "create_time": 1779429674,
+    "update_time": 1779429674,
+    "_id": "体位性低血压"
+  },
+  "胸痛": {
+    "chunk_ids": [
+      "chunk-b9367b056b39e5599923169e84ac1a7f"
+    ],
+    "count": 1,
+    "create_time": 1779429674,
+    "update_time": 1779429674,
+    "_id": "胸痛"
+  },
+  "更年期失眠": {
+    "chunk_ids": [
+      "chunk-b9367b056b39e5599923169e84ac1a7f"
+    ],
+    "count": 1,
+    "create_time": 1779429674,
+    "update_time": 1779429674,
+    "_id": "更年期失眠"
+  },
+  "控热量": {
+    "chunk_ids": [
+      "chunk-b9367b056b39e5599923169e84ac1a7f",
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 2,
+    "create_time": 1779429674,
+    "update_time": 1779429674,
+    "_id": "控热量"
+  },
+  "规律三餐": {
+    "chunk_ids": [
+      "chunk-b9367b056b39e5599923169e84ac1a7f",
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 2,
+    "create_time": 1779429674,
+    "update_time": 1779429674,
+    "_id": "规律三餐"
+  },
+  "固定作息": {
+    "chunk_ids": [
+      "chunk-b9367b056b39e5599923169e84ac1a7f"
+    ],
+    "count": 1,
+    "create_time": 1779429674,
+    "update_time": 1779429674,
+    "_id": "固定作息"
+  },
+  "卧室环境": {
+    "chunk_ids": [
+      "chunk-b9367b056b39e5599923169e84ac1a7f"
+    ],
+    "count": 1,
+    "create_time": 1779429674,
+    "update_time": 1779429674,
+    "_id": "卧室环境"
+  },
+  "睡前不刷手机": {
+    "chunk_ids": [
+      "chunk-b9367b056b39e5599923169e84ac1a7f"
+    ],
+    "count": 1,
+    "create_time": 1779429674,
+    "update_time": 1779429674,
+    "_id": "睡前不刷手机"
+  },
+  "长期失眠": {
+    "chunk_ids": [
+      "chunk-b9367b056b39e5599923169e84ac1a7f"
+    ],
+    "count": 1,
+    "create_time": 1779429674,
+    "update_time": 1779429674,
+    "_id": "长期失眠"
+  },
+  "激素水平": {
+    "chunk_ids": [
+      "chunk-b9367b056b39e5599923169e84ac1a7f"
+    ],
+    "count": 1,
+    "create_time": 1779429674,
+    "update_time": 1779429674,
+    "_id": "激素水平"
+  },
+  "甲状腺功能": {
+    "chunk_ids": [
+      "chunk-b9367b056b39e5599923169e84ac1a7f"
+    ],
+    "count": 1,
+    "create_time": 1779429674,
+    "update_time": 1779429674,
+    "_id": "甲状腺功能"
+  },
+  "运动中头晕": {
+    "chunk_ids": [
+      "chunk-b9367b056b39e5599923169e84ac1a7f"
+    ],
+    "count": 1,
+    "create_time": 1779429674,
+    "update_time": 1779429674,
+    "_id": "运动中头晕"
+  },
+  "血压过高": {
+    "chunk_ids": [
+      "chunk-b9367b056b39e5599923169e84ac1a7f"
+    ],
+    "count": 1,
+    "create_time": 1779429675,
+    "update_time": 1779429675,
+    "_id": "血压过高"
+  },
+  "紧急情况": {
+    "chunk_ids": [
+      "chunk-b9367b056b39e5599923169e84ac1a7f"
+    ],
+    "count": 1,
+    "create_time": 1779429675,
+    "update_time": 1779429675,
+    "_id": "紧急情况"
+  },
+  "200/100": {
+    "chunk_ids": [
+      "chunk-b9367b056b39e5599923169e84ac1a7f"
+    ],
+    "count": 1,
+    "create_time": 1779429675,
+    "update_time": 1779429675,
+    "_id": "200/100"
+  },
+  "就医": {
+    "chunk_ids": [
+      "chunk-b9367b056b39e5599923169e84ac1a7f"
+    ],
+    "count": 1,
+    "create_time": 1779429675,
+    "update_time": 1779429675,
+    "_id": "就医"
+  },
+  "腹型肥胖": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429675,
+    "update_time": 1779429675,
+    "_id": "腹型肥胖"
+  },
+  "膝关节炎": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429675,
+    "update_time": 1779429675,
+    "_id": "膝关节炎"
+  },
+  "心血管风险": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429675,
+    "update_time": 1779429675,
+    "_id": "心血管风险"
+  },
+  "轻断食": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429675,
+    "update_time": 1779429675,
+    "_id": "轻断食"
+  },
+  "有氧运动": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429675,
+    "update_time": 1779429675,
+    "_id": "有氧运动"
+  },
+  "抗阻训练": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429675,
+    "update_time": 1779429675,
+    "_id": "抗阻训练"
+  },
+  "柔韧/平衡": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429675,
+    "update_time": 1779429675,
+    "_id": "柔韧/平衡"
+  },
+  "燕麦": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429675,
+    "update_time": 1779429675,
+    "_id": "燕麦"
+  },
+  "深海鱼": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429675,
+    "update_time": 1779429675,
+    "_id": "深海鱼"
+  },
+  "蓝莓": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429675,
+    "update_time": 1779429675,
+    "_id": "蓝莓"
+  },
+  "牛奶": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429675,
+    "update_time": 1779429675,
+    "_id": "牛奶"
+  },
+  "西柚汁": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429675,
+    "update_time": 1779429675,
+    "_id": "西柚汁"
+  },
+  "香蕉": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429675,
+    "update_time": 1779429675,
+    "_id": "香蕉"
+  },
+  "维生素K": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429675,
+    "update_time": 1779429675,
+    "_id": "维生素K"
+  },
+  "健管师": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429675,
+    "update_time": 1779429675,
+    "_id": "健管师"
+  },
+  "地平类": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429675,
+    "update_time": 1779429675,
+    "_id": "地平类"
+  },
+  "保钾利尿剂": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429675,
+    "update_time": 1779429675,
+    "_id": "保钾利尿剂"
+  },
+  "华法林": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429675,
+    "update_time": 1779429675,
+    "_id": "华法林"
+  },
+  "空腹运动": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429675,
+    "update_time": 1779429675,
+    "_id": "空腹运动"
+  },
+  "低血糖倾向": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429675,
+    "update_time": 1779429675,
+    "_id": "低血糖倾向"
+  },
+  "糖尿病客户": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429675,
+    "update_time": 1779429675,
+    "_id": "糖尿病客户"
+  },
+  "高血压客户": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429675,
+    "update_time": 1779429675,
+    "_id": "高血压客户"
+  },
+  "肥胖客户": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429675,
+    "update_time": 1779429675,
+    "_id": "肥胖客户"
+  },
+  "失眠客户": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429675,
+    "update_time": 1779429675,
+    "_id": "失眠客户"
+  },
+  "阻塞性睡眠呼吸暂停": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429675,
+    "update_time": 1779429675,
+    "_id": "阻塞性睡眠呼吸暂停"
+  },
+  "心率": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429675,
+    "update_time": 1779429675,
+    "_id": "心率"
+  },
+  "体重": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429676,
+    "update_time": 1779429676,
+    "_id": "体重"
+  },
+  "蛋白质": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429676,
+    "update_time": 1779429676,
+    "_id": "蛋白质"
+  },
+  "蔬菜": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429676,
+    "update_time": 1779429676,
+    "_id": "蔬菜"
+  },
+  "全谷物": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429676,
+    "update_time": 1779429676,
+    "_id": "全谷物"
+  },
+  "钠": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429676,
+    "update_time": 1779429676,
+    "_id": "钠"
+  },
+  "钾": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429676,
+    "update_time": 1779429676,
+    "_id": "钾"
+  },
+  "咖啡": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429676,
+    "update_time": 1779429676,
+    "_id": "咖啡"
+  },
+  "健康肥胖者": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429676,
+    "update_time": 1779429676,
+    "_id": "健康肥胖者"
+  },
+  "服降糖药": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429676,
+    "update_time": 1779429676,
+    "_id": "服降糖药"
+  },
+  "服胰岛素": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429676,
+    "update_time": 1779429676,
+    "_id": "服胰岛素"
+  },
+  "控热量+规律三餐": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429676,
+    "update_time": 1779429676,
+    "_id": "控热量+规律三餐"
+  },
+  "每周减0.5-1kg": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429676,
+    "update_time": 1779429676,
+    "_id": "每周减0.5-1kg"
+  },
+  "热量缺口500 kcal/日": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429676,
+    "update_time": 1779429676,
+    "_id": "热量缺口500 kcal/日"
+  },
+  "中等强度": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429676,
+    "update_time": 1779429676,
+    "_id": "中等强度"
+  },
+  "高强度": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429676,
+    "update_time": 1779429676,
+    "_id": "高强度"
+  },
+  "高温/严寒环境": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429676,
+    "update_time": 1779429676,
+    "_id": "高温/严寒环境"
+  },
+  "清晨血压高峰": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429676,
+    "update_time": 1779429676,
+    "_id": "清晨血压高峰"
+  },
+  "餐后1-2小时": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429676,
+    "update_time": 1779429676,
+    "_id": "餐后1-2小时"
+  },
+  "早晨+傍晚": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429676,
+    "update_time": 1779429676,
+    "_id": "早晨+傍晚"
+  },
+  "睡前3小时内": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429676,
+    "update_time": 1779429676,
+    "_id": "睡前3小时内"
+  },
+  "降血压": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429676,
+    "update_time": 1779429676,
+    "_id": "降血压"
+  },
+  "降血糖": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429676,
+    "update_time": 1779429676,
+    "_id": "降血糖"
+  },
+  "减重": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429676,
+    "update_time": 1779429676,
+    "_id": "减重"
+  },
+  "健管师FAQ": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429676,
+    "update_time": 1779429676,
+    "_id": "健管师FAQ"
+  },
+  "Q1": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429676,
+    "update_time": 1779429676,
+    "_id": "Q1"
+  },
+  "Q2": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429676,
+    "update_time": 1779429676,
+    "_id": "Q2"
+  },
+  "Q3": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429676,
+    "update_time": 1779429676,
+    "_id": "Q3"
+  },
+  "Q4": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429676,
+    "update_time": 1779429676,
+    "_id": "Q4"
+  },
+  "心血管疾病": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429677,
+    "update_time": 1779429677,
+    "_id": "心血管疾病"
+  },
+  "生活方式干预": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429678,
+    "update_time": 1779429678,
+    "_id": "生活方式干预"
+  },
+  "压力": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429678,
+    "update_time": 1779429678,
+    "_id": "压力"
+  },
+  "药物": {
+    "chunk_ids": [
+      "chunk-81b03024e1dd4b34980543be3bc43065"
+    ],
+    "count": 1,
+    "create_time": 1779429679,
+    "update_time": 1779429679,
+    "_id": "药物"
+  },
+  "康肥胖者": {
+    "chunk_ids": [
+      "chunk-b9367b056b39e5599923169e84ac1a7f"
+    ],
+    "count": 1,
+    "create_time": 1779429681,
+    "update_time": 1779429681,
+    "_id": "康肥胖者"
+  },
+  "慢病客户": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429683,
+    "update_time": 1779429683,
+    "_id": "慢病客户"
+  },
+  "抗氧化": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429683,
+    "update_time": 1779429683,
+    "_id": "抗氧化"
+  },
+  "助眠": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429683,
+    "update_time": 1779429683,
+    "_id": "助眠"
+  },
+  "客户用药咨询": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429683,
+    "update_time": 1779429683,
+    "_id": "客户用药咨询"
+  },
+  "消化": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429683,
+    "update_time": 1779429683,
+    "_id": "消化"
+  },
+  "上午10点后或下午": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429683,
+    "update_time": 1779429683,
+    "_id": "上午10点后或下午"
+  },
+  "餐后立即剧烈运动": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429683,
+    "update_time": 1779429683,
+    "_id": "餐后立即剧烈运动"
+  },
+  "上午或下午": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429683,
+    "update_time": 1779429683,
+    "_id": "上午或下午"
+  },
+  "健康": {
+    "chunk_ids": [
+      "chunk-7999f726922e9db3fd86a3c35c9029a5"
+    ],
+    "count": 1,
+    "create_time": 1779429684,
+    "update_time": 1779429684,
+    "_id": "健康"
+  }
+}

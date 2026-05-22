@@ -1,0 +1,750 @@
+{
+  "高血压": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333561,
+    "update_time": 1779333561,
+    "_id": "高血压"
+  },
+  "体循环动脉血压": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333561,
+    "update_time": 1779333561,
+    "_id": "体循环动脉血压"
+  },
+  "收缩压": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333561,
+    "update_time": 1779333561,
+    "_id": "收缩压"
+  },
+  "舒张压": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333561,
+    "update_time": 1779333561,
+    "_id": "舒张压"
+  },
+  "心脑血管病": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333561,
+    "update_time": 1779333561,
+    "_id": "心脑血管病"
+  },
+  "正常血压": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333561,
+    "update_time": 1779333561,
+    "_id": "正常血压"
+  },
+  "正常高值": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333561,
+    "update_time": 1779333561,
+    "_id": "正常高值"
+  },
+  "1级高血压": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333561,
+    "update_time": 1779333561,
+    "_id": "1级高血压"
+  },
+  "2级高血压": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333562,
+    "update_time": 1779333562,
+    "_id": "2级高血压"
+  },
+  "3级高血压": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333562,
+    "update_time": 1779333562,
+    "_id": "3级高血压"
+  },
+  "有氧运动": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333562,
+    "update_time": 1779333562,
+    "_id": "有氧运动"
+  },
+  "快走": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333562,
+    "update_time": 1779333562,
+    "_id": "快走"
+  },
+  "慢跑": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333562,
+    "update_time": 1779333562,
+    "_id": "慢跑"
+  },
+  "游泳": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333562,
+    "update_time": 1779333562,
+    "_id": "游泳"
+  },
+  "骑车": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333562,
+    "update_time": 1779333562,
+    "_id": "骑车"
+  },
+  "运动强度": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333562,
+    "update_time": 1779333562,
+    "_id": "运动强度"
+  },
+  "中等强度": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333564,
+    "update_time": 1779333564,
+    "_id": "中等强度"
+  },
+  "低血糖": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333564,
+    "update_time": 1779333564,
+    "_id": "低血糖"
+  },
+  "降压药": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333564,
+    "update_time": 1779333564,
+    "_id": "降压药"
+  },
+  "体位性低血压": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333564,
+    "update_time": 1779333564,
+    "_id": "体位性低血压"
+  },
+  "钠盐": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333564,
+    "update_time": 1779333564,
+    "_id": "钠盐"
+  },
+  "食盐": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333564,
+    "update_time": 1779333564,
+    "_id": "食盐"
+  },
+  "钾": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333564,
+    "update_time": 1779333564,
+    "_id": "钾"
+  },
+  "蔬菜水果": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333564,
+    "update_time": 1779333564,
+    "_id": "蔬菜水果"
+  },
+  "饱和脂肪": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333566,
+    "update_time": 1779333566,
+    "_id": "饱和脂肪"
+  },
+  "反式脂肪": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333566,
+    "update_time": 1779333566,
+    "_id": "反式脂肪"
+  },
+  "戒烟限酒": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333566,
+    "update_time": 1779333566,
+    "_id": "戒烟限酒"
+  },
+  "体重指数": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333566,
+    "update_time": 1779333566,
+    "_id": "体重指数"
+  },
+  "BMI": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333567,
+    "update_time": 1779333567,
+    "_id": "BMI"
+  },
+  "腰围": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333567,
+    "update_time": 1779333567,
+    "_id": "腰围"
+  },
+  "健管师": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333567,
+    "update_time": 1779333567,
+    "_id": "健管师"
+  },
+  "ACEI": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333567,
+    "update_time": 1779333567,
+    "_id": "ACEI"
+  },
+  "普利类": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333568,
+    "update_time": 1779333568,
+    "_id": "普利类"
+  },
+  "ARB": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333568,
+    "update_time": 1779333568,
+    "_id": "ARB"
+  },
+  "沙坦类": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333568,
+    "update_time": 1779333568,
+    "_id": "沙坦类"
+  },
+  "CCB": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333568,
+    "update_time": 1779333568,
+    "_id": "CCB"
+  },
+  "地平类": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333568,
+    "update_time": 1779333568,
+    "_id": "地平类"
+  },
+  "β 阻滞剂": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333568,
+    "update_time": 1779333568,
+    "_id": "β 阻滞剂"
+  },
+  "美托洛尔": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333569,
+    "update_time": 1779333569,
+    "_id": "美托洛尔"
+  },
+  "比索洛尔": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333569,
+    "update_time": 1779333569,
+    "_id": "比索洛尔"
+  },
+  "利尿剂": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1",
+      "chunk-8ce4d9fa8bb87d9191db13410487415f"
+    ],
+    "count": 2,
+    "create_time": 1779333569,
+    "update_time": 1779333569,
+    "_id": "利尿剂"
+  },
+  "氢氯噻嗪": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333569,
+    "update_time": 1779333569,
+    "_id": "氢氯噻嗪"
+  },
+  "吲达帕胺": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333569,
+    "update_time": 1779333569,
+    "_id": "吲达帕胺"
+  },
+  "咖啡": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333569,
+    "update_time": 1779333569,
+    "_id": "咖啡"
+  },
+  "咖啡因": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333570,
+    "update_time": 1779333570,
+    "_id": "咖啡因"
+  },
+  "褪黑素": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333570,
+    "update_time": 1779333570,
+    "_id": "褪黑素"
+  },
+  "睡眠": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333570,
+    "update_time": 1779333570,
+    "_id": "睡眠"
+  },
+  "继发性高血压": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333570,
+    "update_time": 1779333570,
+    "_id": "继发性高血压"
+  },
+  "睡眠卫生指导": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333571,
+    "update_time": 1779333571,
+    "_id": "睡眠卫生指导"
+  },
+  "运动后血压": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333571,
+    "update_time": 1779333571,
+    "_id": "运动后血压"
+  },
+  "胸痛": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333571,
+    "update_time": 1779333571,
+    "_id": "胸痛"
+  },
+  "头晕": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333572,
+    "update_time": 1779333572,
+    "_id": "头晕"
+  },
+  "心悸": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333572,
+    "update_time": 1779333572,
+    "_id": "心悸"
+  },
+  "主诊医生": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333572,
+    "update_time": 1779333572,
+    "_id": "主诊医生"
+  },
+  "健康管理人员": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333572,
+    "update_time": 1779333572,
+    "_id": "健康管理人员"
+  },
+  "世界Athletics Championship": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333573,
+    "update_time": 1779333573,
+    "_id": "世界Athletics Championship"
+  },
+  "东京": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333573,
+    "update_time": 1779333573,
+    "_id": "东京"
+  },
+  "诺亚·卡特": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333573,
+    "update_time": 1779333573,
+    "_id": "诺亚·卡特"
+  },
+  "100米短跑记录": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333574,
+    "update_time": 1779333574,
+    "_id": "100米短跑记录"
+  },
+  "碳纤维钉": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333574,
+    "update_time": 1779333574,
+    "_id": "碳纤维钉"
+  },
+  "世界田径联合会": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333574,
+    "update_time": 1779333574,
+    "_id": "世界田径联合会"
+  },
+  "Beta Blockers": {
+    "chunk_ids": [
+      "chunk-8ce4d9fa8bb87d9191db13410487415f"
+    ],
+    "count": 1,
+    "create_time": 1779333574,
+    "update_time": 1779333574,
+    "_id": "Beta Blockers"
+  },
+  "Diuretics": {
+    "chunk_ids": [
+      "chunk-8ce4d9fa8bb87d9191db13410487415f"
+    ],
+    "count": 1,
+    "create_time": 1779333574,
+    "update_time": 1779333574,
+    "_id": "Diuretics"
+  },
+  "Metoprolol": {
+    "chunk_ids": [
+      "chunk-8ce4d9fa8bb87d9191db13410487415f"
+    ],
+    "count": 1,
+    "create_time": 1779333574,
+    "update_time": 1779333574,
+    "_id": "Metoprolol"
+  },
+  "Bisoprolol": {
+    "chunk_ids": [
+      "chunk-8ce4d9fa8bb87d9191db13410487415f"
+    ],
+    "count": 1,
+    "create_time": 1779333574,
+    "update_time": 1779333574,
+    "_id": "Bisoprolol"
+  },
+  "Hydrochlorothiazide": {
+    "chunk_ids": [
+      "chunk-8ce4d9fa8bb87d9191db13410487415f"
+    ],
+    "count": 1,
+    "create_time": 1779333575,
+    "update_time": 1779333575,
+    "_id": "Hydrochlorothiazide"
+  },
+  "Indapamide": {
+    "chunk_ids": [
+      "chunk-8ce4d9fa8bb87d9191db13410487415f"
+    ],
+    "count": 1,
+    "create_time": 1779333575,
+    "update_time": 1779333575,
+    "_id": "Indapamide"
+  },
+  "Health Management Specialist": {
+    "chunk_ids": [
+      "chunk-8ce4d9fa8bb87d9191db13410487415f"
+    ],
+    "count": 1,
+    "create_time": 1779333575,
+    "update_time": 1779333575,
+    "_id": "Health Management Specialist"
+  },
+  "Primary Physician": {
+    "chunk_ids": [
+      "chunk-8ce4d9fa8bb87d9191db13410487415f"
+    ],
+    "count": 1,
+    "create_time": 1779333575,
+    "update_time": 1779333575,
+    "_id": "Primary Physician"
+  },
+  "Medical Advisory Notice": {
+    "chunk_ids": [
+      "chunk-8ce4d9fa8bb87d9191db13410487415f"
+    ],
+    "count": 1,
+    "create_time": 1779333576,
+    "update_time": 1779333576,
+    "_id": "Medical Advisory Notice"
+  },
+  "β Blockers": {
+    "chunk_ids": [
+      "chunk-8ce4d9fa8bb87d9191db13410487415f"
+    ],
+    "count": 1,
+    "create_time": 1779333576,
+    "update_time": 1779333576,
+    "_id": "β Blockers"
+  },
+  "重要提醒": {
+    "chunk_ids": [
+      "chunk-8ce4d9fa8bb87d9191db13410487415f"
+    ],
+    "count": 1,
+    "create_time": 1779333576,
+    "update_time": 1779333576,
+    "_id": "重要提醒"
+  },
+  "运动建议": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333579,
+    "update_time": 1779333579,
+    "_id": "运动建议"
+  },
+  "空腹运动": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333586,
+    "update_time": 1779333586,
+    "_id": "空腹运动"
+  },
+  "运动": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333587,
+    "update_time": 1779333587,
+    "_id": "运动"
+  },
+  "饮食建议": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333588,
+    "update_time": 1779333588,
+    "_id": "饮食建议"
+  },
+  "体重管理": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333591,
+    "update_time": 1779333591,
+    "_id": "体重管理"
+  },
+  "生活方式干预": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333592,
+    "update_time": 1779333592,
+    "_id": "生活方式干预"
+  },
+  "用药相关": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333595,
+    "update_time": 1779333595,
+    "_id": "用药相关"
+  },
+  "异常情况": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333603,
+    "update_time": 1779333603,
+    "_id": "异常情况"
+  },
+  "Tokyo": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333604,
+    "update_time": 1779333604,
+    "_id": "Tokyo"
+  },
+  "Noah Carter": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333604,
+    "update_time": 1779333604,
+    "_id": "Noah Carter"
+  },
+  "World Athletics Championship": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333605,
+    "update_time": 1779333605,
+    "_id": "World Athletics Championship"
+  }
+}

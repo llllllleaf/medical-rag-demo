@@ -1,0 +1,587 @@
+{
+  "体循环动脉血压<SEP>高血压": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333579,
+    "update_time": 1779333579,
+    "_id": "体循环动脉血压<SEP>高血压"
+  },
+  "有氧运动<SEP>运动建议": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333579,
+    "update_time": 1779333579,
+    "_id": "有氧运动<SEP>运动建议"
+  },
+  "心脑血管病<SEP>高血压": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333581,
+    "update_time": 1779333581,
+    "_id": "心脑血管病<SEP>高血压"
+  },
+  "正常血压<SEP>高血压": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333582,
+    "update_time": 1779333582,
+    "_id": "正常血压<SEP>高血压"
+  },
+  "快走<SEP>有氧运动": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333583,
+    "update_time": 1779333583,
+    "_id": "快走<SEP>有氧运动"
+  },
+  "1级高血压<SEP>高血压": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333584,
+    "update_time": 1779333584,
+    "_id": "1级高血压<SEP>高血压"
+  },
+  "慢跑<SEP>有氧运动": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333585,
+    "update_time": 1779333585,
+    "_id": "慢跑<SEP>有氧运动"
+  },
+  "中等强度<SEP>运动强度": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333585,
+    "update_time": 1779333585,
+    "_id": "中等强度<SEP>运动强度"
+  },
+  "2级高血压<SEP>高血压": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333586,
+    "update_time": 1779333586,
+    "_id": "2级高血压<SEP>高血压"
+  },
+  "低血糖<SEP>空腹运动": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333586,
+    "update_time": 1779333586,
+    "_id": "低血糖<SEP>空腹运动"
+  },
+  "有氧运动<SEP>游泳": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333587,
+    "update_time": 1779333587,
+    "_id": "有氧运动<SEP>游泳"
+  },
+  "体位性低血压<SEP>运动": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333587,
+    "update_time": 1779333587,
+    "_id": "体位性低血压<SEP>运动"
+  },
+  "3级高血压<SEP>高血压": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333588,
+    "update_time": 1779333588,
+    "_id": "3级高血压<SEP>高血压"
+  },
+  "钠盐<SEP>饮食建议": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333588,
+    "update_time": 1779333588,
+    "_id": "钠盐<SEP>饮食建议"
+  },
+  "有氧运动<SEP>骑车": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333589,
+    "update_time": 1779333589,
+    "_id": "有氧运动<SEP>骑车"
+  },
+  "空腹运动<SEP>降压药": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333590,
+    "update_time": 1779333590,
+    "_id": "空腹运动<SEP>降压药"
+  },
+  "体重指数<SEP>体重管理": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333591,
+    "update_time": 1779333591,
+    "_id": "体重指数<SEP>体重管理"
+  },
+  "有氧运动<SEP>运动强度": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333591,
+    "update_time": 1779333591,
+    "_id": "有氧运动<SEP>运动强度"
+  },
+  "钾<SEP>饮食建议": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333592,
+    "update_time": 1779333592,
+    "_id": "钾<SEP>饮食建议"
+  },
+  "健管师<SEP>生活方式干预": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333592,
+    "update_time": 1779333592,
+    "_id": "健管师<SEP>生活方式干预"
+  },
+  "体重管理<SEP>腰围": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333594,
+    "update_time": 1779333594,
+    "_id": "体重管理<SEP>腰围"
+  },
+  "饮食建议<SEP>饱和脂肪": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333594,
+    "update_time": 1779333594,
+    "_id": "饮食建议<SEP>饱和脂肪"
+  },
+  "ACEI<SEP>降压药": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333594,
+    "update_time": 1779333594,
+    "_id": "ACEI<SEP>降压药"
+  },
+  "健管师<SEP>用药相关": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333595,
+    "update_time": 1779333595,
+    "_id": "健管师<SEP>用药相关"
+  },
+  "ARB<SEP>降压药": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333596,
+    "update_time": 1779333596,
+    "_id": "ARB<SEP>降压药"
+  },
+  "ACEI<SEP>普利类": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333596,
+    "update_time": 1779333596,
+    "_id": "ACEI<SEP>普利类"
+  },
+  "反式脂肪<SEP>饮食建议": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333597,
+    "update_time": 1779333597,
+    "_id": "反式脂肪<SEP>饮食建议"
+  },
+  "CCB<SEP>降压药": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333597,
+    "update_time": 1779333597,
+    "_id": "CCB<SEP>降压药"
+  },
+  "ARB<SEP>沙坦类": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333597,
+    "update_time": 1779333597,
+    "_id": "ARB<SEP>沙坦类"
+  },
+  "戒烟限酒<SEP>饮食建议": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333598,
+    "update_time": 1779333598,
+    "_id": "戒烟限酒<SEP>饮食建议"
+  },
+  "β 阻滞剂<SEP>降压药": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333598,
+    "update_time": 1779333598,
+    "_id": "β 阻滞剂<SEP>降压药"
+  },
+  "CCB<SEP>地平类": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333598,
+    "update_time": 1779333598,
+    "_id": "CCB<SEP>地平类"
+  },
+  "利尿剂<SEP>降压药": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333600,
+    "update_time": 1779333600,
+    "_id": "利尿剂<SEP>降压药"
+  },
+  "β 阻滞剂<SEP>美托洛尔": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333600,
+    "update_time": 1779333600,
+    "_id": "β 阻滞剂<SEP>美托洛尔"
+  },
+  "咖啡<SEP>饮食建议": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333600,
+    "update_time": 1779333600,
+    "_id": "咖啡<SEP>饮食建议"
+  },
+  "睡眠<SEP>褪黑素": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333601,
+    "update_time": 1779333601,
+    "_id": "睡眠<SEP>褪黑素"
+  },
+  "β 阻滞剂<SEP>比索洛尔": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333601,
+    "update_time": 1779333601,
+    "_id": "β 阻滞剂<SEP>比索洛尔"
+  },
+  "利尿剂<SEP>氢氯噻嗪": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333601,
+    "update_time": 1779333601,
+    "_id": "利尿剂<SEP>氢氯噻嗪"
+  },
+  "继发性高血压<SEP>高血压": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333601,
+    "update_time": 1779333601,
+    "_id": "继发性高血压<SEP>高血压"
+  },
+  "咖啡因<SEP>饮食建议": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333602,
+    "update_time": 1779333602,
+    "_id": "咖啡因<SEP>饮食建议"
+  },
+  "生活方式干预<SEP>睡眠": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333602,
+    "update_time": 1779333602,
+    "_id": "生活方式干预<SEP>睡眠"
+  },
+  "运动后血压<SEP>高血压": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333603,
+    "update_time": 1779333603,
+    "_id": "运动后血压<SEP>高血压"
+  },
+  "利尿剂<SEP>吲达帕胺": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333603,
+    "update_time": 1779333603,
+    "_id": "利尿剂<SEP>吲达帕胺"
+  },
+  "异常情况<SEP>胸痛": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333603,
+    "update_time": 1779333603,
+    "_id": "异常情况<SEP>胸痛"
+  },
+  "睡眠<SEP>睡眠卫生指导": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333604,
+    "update_time": 1779333604,
+    "_id": "睡眠<SEP>睡眠卫生指导"
+  },
+  "主诊医生<SEP>用药相关": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333604,
+    "update_time": 1779333604,
+    "_id": "主诊医生<SEP>用药相关"
+  },
+  "健康管理人员<SEP>生活方式干预": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333604,
+    "update_time": 1779333604,
+    "_id": "健康管理人员<SEP>生活方式干预"
+  },
+  "Tokyo<SEP>World Athletics Championship": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333604,
+    "update_time": 1779333604,
+    "_id": "Tokyo<SEP>World Athletics Championship"
+  },
+  "100米短跑记录<SEP>Noah Carter": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333604,
+    "update_time": 1779333604,
+    "_id": "100米短跑记录<SEP>Noah Carter"
+  },
+  "Beta Blockers<SEP>Metoprolol": {
+    "chunk_ids": [
+      "chunk-8ce4d9fa8bb87d9191db13410487415f"
+    ],
+    "count": 1,
+    "create_time": 1779333605,
+    "update_time": 1779333605,
+    "_id": "Beta Blockers<SEP>Metoprolol"
+  },
+  "头晕<SEP>异常情况": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333605,
+    "update_time": 1779333605,
+    "_id": "头晕<SEP>异常情况"
+  },
+  "Beta Blockers<SEP>Bisoprolol": {
+    "chunk_ids": [
+      "chunk-8ce4d9fa8bb87d9191db13410487415f"
+    ],
+    "count": 1,
+    "create_time": 1779333606,
+    "update_time": 1779333606,
+    "_id": "Beta Blockers<SEP>Bisoprolol"
+  },
+  "Diuretics<SEP>Hydrochlorothiazide": {
+    "chunk_ids": [
+      "chunk-8ce4d9fa8bb87d9191db13410487415f"
+    ],
+    "count": 1,
+    "create_time": 1779333606,
+    "update_time": 1779333606,
+    "_id": "Diuretics<SEP>Hydrochlorothiazide"
+  },
+  "异常情况<SEP>心悸": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333606,
+    "update_time": 1779333606,
+    "_id": "异常情况<SEP>心悸"
+  },
+  "Diuretics<SEP>Indapamide": {
+    "chunk_ids": [
+      "chunk-8ce4d9fa8bb87d9191db13410487415f"
+    ],
+    "count": 1,
+    "create_time": 1779333606,
+    "update_time": 1779333606,
+    "_id": "Diuretics<SEP>Indapamide"
+  },
+  "Health Management Specialist<SEP>Medical Advisory Notice": {
+    "chunk_ids": [
+      "chunk-8ce4d9fa8bb87d9191db13410487415f"
+    ],
+    "count": 1,
+    "create_time": 1779333606,
+    "update_time": 1779333606,
+    "_id": "Health Management Specialist<SEP>Medical Advisory Notice"
+  },
+  "Metoprolol<SEP>β Blockers": {
+    "chunk_ids": [
+      "chunk-8ce4d9fa8bb87d9191db13410487415f"
+    ],
+    "count": 1,
+    "create_time": 1779333606,
+    "update_time": 1779333606,
+    "_id": "Metoprolol<SEP>β Blockers"
+  },
+  "Noah Carter<SEP>碳纤维钉": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333606,
+    "update_time": 1779333606,
+    "_id": "Noah Carter<SEP>碳纤维钉"
+  },
+  "Medical Advisory Notice<SEP>Primary Physician": {
+    "chunk_ids": [
+      "chunk-8ce4d9fa8bb87d9191db13410487415f"
+    ],
+    "count": 1,
+    "create_time": 1779333606,
+    "update_time": 1779333606,
+    "_id": "Medical Advisory Notice<SEP>Primary Physician"
+  },
+  "Hydrochlorothiazide<SEP>利尿剂": {
+    "chunk_ids": [
+      "chunk-8ce4d9fa8bb87d9191db13410487415f"
+    ],
+    "count": 1,
+    "create_time": 1779333606,
+    "update_time": 1779333606,
+    "_id": "Hydrochlorothiazide<SEP>利尿剂"
+  },
+  "Bisoprolol<SEP>β Blockers": {
+    "chunk_ids": [
+      "chunk-8ce4d9fa8bb87d9191db13410487415f"
+    ],
+    "count": 1,
+    "create_time": 1779333606,
+    "update_time": 1779333606,
+    "_id": "Bisoprolol<SEP>β Blockers"
+  },
+  "Health Management Specialist<SEP>重要提醒": {
+    "chunk_ids": [
+      "chunk-8ce4d9fa8bb87d9191db13410487415f"
+    ],
+    "count": 1,
+    "create_time": 1779333606,
+    "update_time": 1779333606,
+    "_id": "Health Management Specialist<SEP>重要提醒"
+  },
+  "Indapamide<SEP>利尿剂": {
+    "chunk_ids": [
+      "chunk-8ce4d9fa8bb87d9191db13410487415f"
+    ],
+    "count": 1,
+    "create_time": 1779333606,
+    "update_time": 1779333606,
+    "_id": "Indapamide<SEP>利尿剂"
+  },
+  "Primary Physician<SEP>重要提醒": {
+    "chunk_ids": [
+      "chunk-8ce4d9fa8bb87d9191db13410487415f"
+    ],
+    "count": 1,
+    "create_time": 1779333606,
+    "update_time": 1779333606,
+    "_id": "Primary Physician<SEP>重要提醒"
+  },
+  "Noah Carter<SEP>World Athletics Championship": {
+    "chunk_ids": [
+      "chunk-46aed8d6a58de659861f308275e632c1"
+    ],
+    "count": 1,
+    "create_time": 1779333608,
+    "update_time": 1779333608,
+    "_id": "Noah Carter<SEP>World Athletics Championship"
+  }
+}
