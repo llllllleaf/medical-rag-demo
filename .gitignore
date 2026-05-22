@@ -20,11 +20,12 @@ ENV/
 .env.local
 .env.*.local
 
-# Chroma 向量库
-chroma_db/
+# Chroma 向量库(任何 chroma_db 开头的目录)
+chroma_db*/
 *.chroma/
 
-# LightRAG 知识图谱缓存
+# LightRAG 知识图谱缓存(任何 lightrag_storage 开头的目录)
+lightrag_storage*/
 graph_storage/
 kv_storage/
 vector_storage/
