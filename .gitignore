@@ -61,3 +61,7 @@ htmlcov/
 # Gradio 临时文件
 flagged/
 gradio_cached_examples/
+
+# pyvis 生成的可视化文件(运行 visualize_graph.py 或 app.py 时自动生成)
+graph_visualization.html
+lib/
